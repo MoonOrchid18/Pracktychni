@@ -1,0 +1,29 @@
+﻿<Window x:Class="OknoCina.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:OknoCina"
+        mc:Ignorable="d"
+        Title="Склопакет" Height="440" Width="800">
+    <Grid>
+        <Label Content="Розміри вікна:" HorizontalAlignment="Left" FontSize="16" FontWeight="Bold" Margin="38,22,0,0" VerticalAlignment="Top" Width="160"/>
+        <Label Content="Ширина (см):" HorizontalAlignment="Left" Margin="38,58,0,0" VerticalAlignment="Top" Width="135"/>
+        <Label Content="Висота (см):" HorizontalAlignment="Left" Margin="38,89,0,0" VerticalAlignment="Top" Width="132"/>
+        <Label Content="Матеріал:" HorizontalAlignment="Left" Margin="38,120,0,0" VerticalAlignment="Top" Width="132"/>
+        <ComboBox HorizontalAlignment="Left" Margin="138,124,0,0" VerticalAlignment="Top" Width="120" x:Name="comboBoxMaterial" SelectedIndex="0">
+            <TextBlock>Дерево</TextBlock>
+            <TextBlock>Метал</TextBlock>
+            <TextBlock>Металопластик</TextBlock>
+        </ComboBox>
+        <Label Content="Склопакет:" HorizontalAlignment="Left" FontSize="16" FontWeight="Bold" Margin="331,22,0,0" VerticalAlignment="Top" Width="160"/>
+        <RadioButton Content="Однокамерний" HorizontalAlignment="Left" Margin="336,58,0,0" VerticalAlignment="Top" GroupName="sclo" x:Name="radioButtonOneCam"/>
+        <RadioButton Content="Двокамерний" HorizontalAlignment="Left" Margin="336,89,0,0" VerticalAlignment="Top" GroupName="sclo" x:Name="radioButtonTwoCam"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="138,58,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" x:Name="textBoxWidth"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="138,90,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" x:Name="textBoxHeight"/>
+        <CheckBox Content="Підвіконня" HorizontalAlignment="Left" Margin="336,134,0,0" VerticalAlignment="Top" x:Name="checkBoxWindowsill"/>
+        <Button Content="Розрахувати" HorizontalAlignment="Left" Margin="341,171,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click"/>
+        <Label FontSize="20" Foreground="Red" FontWeight="Bold" HorizontalAlignment="Left" Margin="50,171,0,0" VerticalAlignment="Top" x:Name="labelPrice"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,30 @@
+D:\Pary\Констроювання ПЗ\OknoCina\bin\Debug\OknoCina.exe.config
+D:\Pary\Констроювання ПЗ\OknoCina\bin\Debug\OknoCina.exe
+D:\Pary\Констроювання ПЗ\OknoCina\bin\Debug\OknoCina.pdb
+D:\Pary\Констроювання ПЗ\OknoCina\obj\Debug\OknoCina.csprojAssemblyReference.cache
+D:\Pary\Констроювання ПЗ\OknoCina\obj\Debug\MainWindow.g.cs
+D:\Pary\Констроювання ПЗ\OknoCina\obj\Debug\App.g.cs
+D:\Pary\Констроювання ПЗ\OknoCina\obj\Debug\OknoCina_MarkupCompile.cache
+D:\Pary\Констроювання ПЗ\OknoCina\obj\Debug\OknoCina_MarkupCompile.lref
+D:\Pary\Констроювання ПЗ\OknoCina\obj\Debug\MainWindow.baml
+D:\Pary\Констроювання ПЗ\OknoCina\obj\Debug\OknoCina.g.resources
+D:\Pary\Констроювання ПЗ\OknoCina\obj\Debug\OknoCina.Properties.Resources.resources
+D:\Pary\Констроювання ПЗ\OknoCina\obj\Debug\OknoCina.csproj.GenerateResource.cache
+D:\Pary\Констроювання ПЗ\OknoCina\obj\Debug\OknoCina.csproj.CoreCompileInputs.cache
+D:\Pary\Констроювання ПЗ\OknoCina\obj\Debug\OknoCina.exe
+D:\Pary\Констроювання ПЗ\OknoCina\obj\Debug\OknoCina.pdb
+D:\practs2020\OknoCina\bin\Debug\OknoCina.exe.config
+D:\practs2020\OknoCina\bin\Debug\OknoCina.exe
+D:\practs2020\OknoCina\bin\Debug\OknoCina.pdb
+D:\practs2020\OknoCina\obj\Debug\OknoCina.csprojAssemblyReference.cache
+D:\practs2020\OknoCina\obj\Debug\MainWindow.g.cs
+D:\practs2020\OknoCina\obj\Debug\App.g.cs
+D:\practs2020\OknoCina\obj\Debug\OknoCina_MarkupCompile.cache
+D:\practs2020\OknoCina\obj\Debug\OknoCina_MarkupCompile.lref
+D:\practs2020\OknoCina\obj\Debug\MainWindow.baml
+D:\practs2020\OknoCina\obj\Debug\OknoCina.g.resources
+D:\practs2020\OknoCina\obj\Debug\OknoCina.Properties.Resources.resources
+D:\practs2020\OknoCina\obj\Debug\OknoCina.csproj.GenerateResource.cache
+D:\practs2020\OknoCina\obj\Debug\OknoCina.csproj.CoreCompileInputs.cache
+D:\practs2020\OknoCina\obj\Debug\OknoCina.exe
+D:\practs2020\OknoCina\obj\Debug\OknoCina.pdb
